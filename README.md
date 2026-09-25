@@ -1,4 +1,4 @@
-# Store Analytics
+# Store Analytics WTC-4T6GL99L
 
 Generates matplotlib charts of your store's sales trends, pulled live from
 your Supabase project (the same `orders`, `order_items`, `products`,
